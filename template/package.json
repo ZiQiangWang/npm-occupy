@@ -1,0 +1,8 @@
+{
+  "name": "{{package}}",
+  "version": "0.0.1-beta.1",
+  "description": "{{description}}",
+  "keywords": {{{keywords}}},
+  "author": "{{author}}",
+  "license": "{{license}}"
+}
