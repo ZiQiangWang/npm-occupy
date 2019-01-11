@@ -1,6 +1,5 @@
 # npm-occupy
-A tool used to register npm package name.
-
+A tool used to register npm package name. Based on [npm-robbery](https://github.com/hustcc/npm-robbery) .
 
 [![NPM version][npm-badge]][npm-url]
 [![NPM downloads][npm-downloads]][npm-url]
